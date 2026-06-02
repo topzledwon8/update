@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.1.3</version>
-    <url>https://nguyenlieu.live/toolzip/info_check.zip</url>
+    <version>1.0.1.4</version>
+    <url>https://raw.githubusercontent.com/topzledwon8/update/refs/heads/main/info_check.zip</url>
     <changelog></changelog>
     <mandatory>false</mandatory>
 </item>
